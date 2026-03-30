@@ -23,6 +23,9 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuj1iwari&theme=dark&show_icons=true&hide_border=false" alt="Anuj's Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj1iwari&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
