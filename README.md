@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/nsTt36cz/peaky-jpg.jpg" alt="Anuj Tiwari Banner" width="100%">
+</p>
+
 <div align="center">
   <h1>👋 Hey there, I'm Anuj Tiwari!</h1>
   <h3>Web Developer by Profession | Storyteller by Heart 📖</h3>
