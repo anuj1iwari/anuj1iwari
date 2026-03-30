@@ -5,6 +5,7 @@
 <div align="center">
   <h1>👋 Hey there, I'm Anuj Tiwari!</h1>
   <h3>Web Developer by Profession | Storyteller by Heart 📖</h3>
+  <p><b>Check out my portfolio: <a href="https://anujtiwari.vercel.app/" target="_blank">anujtiwari.vercel.app</a></b></p>
 
   ## 🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj1iwari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anuj1iwari) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anuj1iwari) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuj1iwari) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj1iwari@gmail.com)
